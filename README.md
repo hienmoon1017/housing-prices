@@ -89,6 +89,7 @@ print("Number of missing values for bedrooms:", df["bedrooms"].isnull().sum())
 ![image](https://github.com/user-attachments/assets/59e150c7-a17b-41f0-be66-ab22bb02dc1b)
 
 and now it is the cleaned data:
+
 ![image](https://github.com/user-attachments/assets/788d288e-9e65-490d-80fc-806dc83ade77)
 
 ## 2. Exploratory Data Analysis (EDA)
